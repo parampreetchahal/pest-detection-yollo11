@@ -63,9 +63,6 @@ The Pest Detection Model is an AI-based solution that identifies various pests u
 - **Graphs:** Learning rate vs. accuracy visualization.
 
 
-## Contributors
-- **Your Name** - Developer
-- **Contributors** - Additional contributors (if any)
 
 ## License
 This project is licensed under the MIT License.
